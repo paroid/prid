@@ -1,6 +1,6 @@
 #prid#
 a jQuery plugin for gird masking  
-##usage:## 
+##usage:##
 $('.pic').prid([options]);
 
 ##options:##
