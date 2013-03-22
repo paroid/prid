@@ -11,3 +11,6 @@ $('.pic').prid([options]);
 * lineColor:string('#fff' by default) line color
 * borderRadius:number(0 by default) border-radius
 
+##screenshots##
+http://paroid.org/blog/prid/
+
