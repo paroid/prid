@@ -1,10 +1,9 @@
-prid
-====
+#prid#
 a jQuery plugin for gird masking  
-usage:
+##usage:## 
 $('.pic').prid([options]);
 
-options:
+##options:##
 * rows:number(3 by default)  grid row count
 * cols:number(3 by default)  grid column count
 * lineWidth:number(2 by default) grid line width
